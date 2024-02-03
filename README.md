@@ -24,6 +24,9 @@
 2. Run `discordbot.py`.
 3. PLAY 😄
 
+#### Sone games are provided in game directory in the repo. You can change the game on [`data = 'games/zork1.z5'`](https://github.com/thilina27/TextGameDiscordBot/blob/0a7c3ad1883abd93df99c102baad792c79f1d848/discordbot.py#L13)
+#### More can be found in : https://www.ifarchive.org/indexes/if-archiveXgamesXzcode.html
+
 ### Available commands 
 #### !start - Start game 
 #### !stop  - Stop game
